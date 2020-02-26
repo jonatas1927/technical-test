@@ -20,4 +20,9 @@ Ao iniciar a aplicação do seviceTest ela irá realizar 2 testes, para validar 
 
 # Desafio 2
 
+O desafio 2 esta no diretório ```part-2```.
+
+Para realizar a instalação das dependencias é necessário entrar no diretório e rodar o comando ```npm i```, tendo o npm e o node instalados.
+
+Para executar o arquivo é necessario entrar no diretorio ```scr``` e executar o comando ```node index.js```.
 
