@@ -25,6 +25,7 @@ function validaHash(hash, res, req) {
       data += chunk;
     });
     resp.on('end', () => {
+      console.log(resp.headers)
       res.sendStatus(resp.statusCode);
     });
   }).on("error", (err) => {
